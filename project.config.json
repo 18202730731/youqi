@@ -1,0 +1,9 @@
+{
+  "description": "有期 · 证件到期提醒助手",
+  "miniprogramRoot": "dist-weapp/",
+  "cloudfunctionRoot": "cloudfunctions/",
+  "compileType": "miniprogram",
+  "appid": "touristappid",
+  "projectname": "youqi",
+  "setting": { "urlCheck": true, "es6": true, "enhance": true, "postcss": true, "minified": true }
+}

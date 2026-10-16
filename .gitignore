@@ -1,0 +1,13 @@
+node_modules/
+dist/
+dist-weapp/
+.env
+.env.local
+.taro/
+.swc/
+.sites-runtime/
+.DS_Store
+*.log
+project.private.config.json
+.openai/*.local.*
+!.openai/hosting.json

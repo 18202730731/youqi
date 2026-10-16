@@ -1,0 +1,4 @@
+{
+  "permissions": { "openapi": ["subscribeMessage.send"] },
+  "triggers": [{ "name": "youqi-daily-reminders", "type": "timer", "config": "0 0 9 * * * *" }]
+}

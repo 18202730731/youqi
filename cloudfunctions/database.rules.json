@@ -1,0 +1,4 @@
+{
+  "youqi_profiles": { "read": false, "write": false },
+  "youqi_reminders": { "read": false, "write": false }
+}
